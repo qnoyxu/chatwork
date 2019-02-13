@@ -28,12 +28,12 @@ dependencies:
 library:
   source-dirs: src
 
-executables:
-  sample-exe:
-    source-dirs: sample
-    main: Main.hs
-    dependencies:
-      - chatwork
+# executables:
+#   sample-exe:
+#     source-dirs: sample
+#     main: Main.hs
+#     dependencies:
+#       - chatwork
 
 tests:
   spec:

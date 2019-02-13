@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: c54788dfb521a7504f2d8683016d98eba7c8c78115d43e063ca54d162c66638a
+-- hash: 0a4abd0c77b73fe2f6c2b67d886c1cf5a64547bae544cb6e63a29ed4c0fc76c5
 
 name:           chatwork
-version:        0.1.3.5
+version:        0.1.3.6
 synopsis:       The ChatWork API in Haskell
 description:    See README at <https://github.com/matsubara0507/chatwork#readme>
 category:       Web
